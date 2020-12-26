@@ -25,7 +25,7 @@ setup(
 		"Flask-PyMongo==2.3.0",
 		"Flask-Session==0.3.1",
 		"beautifulsoup4==4.8.0",
-		"cloudscraper==1.2.21",
+		"cloudscraper==1.2.22",
 		"flask-bcrypt==0.7.1",
 		"flask-wtf==0.14.2",
 		"requests==2.22.0",

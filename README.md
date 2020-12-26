@@ -14,7 +14,7 @@ pip install git+git://github.com/Shoot/Bumper.git
 ```
 Or, clone this repository and type
 ```
-py setup.py install
+python setup.py install
 ```
 
 ## Usage
